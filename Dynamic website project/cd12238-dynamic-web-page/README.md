@@ -1,13 +1,39 @@
 # Dynamic Web Page Project
 
-This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+## Description
 
----
+This project is a multi-section landing page built as part of the Udacity Front-End development program. The goal of the project was to convert a static webpage into an interactive experience using JavaScript.
 
-## Instructions
+The HTML and CSS were already provided as part of the starter code, and my main contribution was implementing the JavaScript functionality to make the page dynamic and interactive.
 
-The starter project has some HTML and CSS styling to display a static version of the Dynamic Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+The page includes a navigation menu that is generated dynamically based on the sections in the page.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Features
 
-For more detailed requirements, see the project instructions in the Udacity Classroom.
+* Dynamic navigation menu generated using JavaScript
+* Active section highlighting while scrolling
+* Smooth scrolling between sections
+* Interactive user experience based on scroll behavior
+
+## Technologies Used
+
+* HTML (provided starter code)
+* CSS (provided starter code)
+* JavaScript (my main implementation)
+
+## What I Learned
+
+Through this project, I practiced:
+
+* DOM manipulation using JavaScript
+* Creating dynamic navigation elements
+* Handling scroll events
+* Connecting JavaScript with existing HTML structure
+
+## Note
+
+This project was completed as part of Udacity Front-End course requirements. The focus of my work was implementing JavaScript logic to enhance an existing static layout.
+
+## Author
+
+Basma Ahmad
